@@ -1,0 +1,14 @@
+# GEO downloads and pipeline intermediates: regenerate with download_geo.sh + the pipeline
+data/
+work/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
